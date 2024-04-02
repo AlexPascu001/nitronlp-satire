@@ -1,0 +1,12 @@
+*.csv
+*.npy
+*.pth
+.idea/
+ligthning_logs/
+models/
+training_splits/
+testing_splits/
+venv/
+*.pt
+*.zip
+submissions/
